@@ -5,3 +5,6 @@ log.txt
 dist
 .DS_Store
 .vscode
+
+# self
+.fastRequest
